@@ -5,19 +5,19 @@
 
 #Pin
 1. the sensor
-trig to 9
-echo to 8
-gnd to gnd (gnd = ground)
-vcc to 5v
+a. trig to 9
+b. echo to 8
+c. gnd to gnd (gnd = ground)
+d. vcc to 5v
 
 2. led
-green positive to 4
-yellow positive to 5
-red positive to 6
+a. green positive to 4
+c. yellow positive to 5
+d. red positive to 6
 
 
-green negative to gnd
-yellow negative to gnd
-red negative to gnd
+a. green negative to gnd
+b. yellow negative to gnd
+c. red negative to gnd
 
 (open the pict u mfs)
